@@ -1,6 +1,6 @@
 node_modules
 npm-debug.log*
-src
-flags
-src/components/Flags/Countries/*.tsx
+src/*
+flags/*
+#src/components/Flags/Countries/*.tsx
 storybook-static
