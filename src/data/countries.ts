@@ -2,8 +2,8 @@ import type { Countries } from "../types";
 
 export const countries: Countries = {
   EU: "Europe (EU)",
-    EUW: "EUROPE WEST",
-    EUN: "EUROPE NORDIC & EAST",
+  EUW: "EUROPE WEST",
+  EUN: "EUROPE NORDIC & EAST",
   USN: "North America",
   SAE: "Middle East",
   WW: "Worldwide",
