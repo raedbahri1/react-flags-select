@@ -2,7 +2,7 @@ import React from "react";
 import { Meta } from "@storybook/react/types-6-0";
 import { withKnobs, number } from "@storybook/addon-knobs";
 
-import { Us } from ".";
+import {Us, Ww} from ".";
 
 export default {
   title: "Flags",
@@ -16,6 +16,7 @@ export const Primary: React.FC<{}> = () => {
   return (
     <span style={{ fontSize }}>
       <Us />
+      <Ww />
     </span>
   );
 };
